@@ -1,4 +1,4 @@
-# lightinglua-runscript
+-- lightinglua-runscript
 
 local light = game.Lighting
 for i, v in pairs(light:GetChildren()) do
